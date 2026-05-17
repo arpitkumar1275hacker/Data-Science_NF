@@ -1,0 +1,10 @@
+1. Write a program to find the largest and smallest elements in a list. with out loop.
+
+
+lst = [12, 45, 7, 89, 23, 5]
+
+largest = max(lst)
+smallest = min(lst)
+
+print("Largest element:", largest)
+print("Smallest element:", smallest)
